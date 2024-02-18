@@ -1,0 +1,4 @@
+Session*.*vim
+zig-cache/**
+zig-out/**
+**.sw?
