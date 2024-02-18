@@ -1,4 +1,7 @@
+.gitignore
 Session*.*vim
 zig-cache/**
 zig-out/**
 **.sw?
+*commit_msg
+
